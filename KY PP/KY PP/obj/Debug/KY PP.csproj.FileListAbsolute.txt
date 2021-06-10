@@ -1,0 +1,6 @@
+C:\Users\Mrale\Desktop\KY PP\KY PP\bin\Debug\KY PP.exe
+C:\Users\Mrale\Desktop\KY PP\KY PP\bin\Debug\KY PP.pdb
+C:\Users\Mrale\Desktop\KY PP\KY PP\obj\Debug\KY PP.csprojAssemblyReference.cache
+C:\Users\Mrale\Desktop\KY PP\KY PP\obj\Debug\KY PP.csproj.CoreCompileInputs.cache
+C:\Users\Mrale\Desktop\KY PP\KY PP\obj\Debug\KY PP.exe
+C:\Users\Mrale\Desktop\KY PP\KY PP\obj\Debug\KY PP.pdb
